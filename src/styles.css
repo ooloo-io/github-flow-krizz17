@@ -24,12 +24,21 @@ body {
   width: 760px;
   max-width: 100%;
   margin: auto;
+<<<<<<< HEAD
   padding: 20px;
 }
 
 .section {
   height: 450px;
   width: 100%;
+=======
+}
+ 
+.section {
+  height: 450px;
+  width: 100%;
+  margin-top: 20px;
+>>>>>>> Add bottom section
   display: flex;
   justify-content: center;
   align-items: center;
